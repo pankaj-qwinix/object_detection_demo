@@ -1,0 +1,48 @@
+<annotation>
+    <folder>test</folder>
+    <filename>35.jpg</filename>
+    <path>/Users/kaundinya/workspace/learning-folder/tf-example-object-detection-api-race-cars/test/35.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>shelf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>136</xmin>
+            <ymin>30</ymin>
+            <xmax>868</xmax>
+            <ymax>282</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shelf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>131</xmin>
+            <ymin>289</ymin>
+            <xmax>887</xmax>
+            <ymax>550</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>shelf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>130</xmin>
+            <ymin>537</ymin>
+            <xmax>912</xmax>
+            <ymax>836</ymax>
+        </bndbox>
+    </object>
+</annotation>
