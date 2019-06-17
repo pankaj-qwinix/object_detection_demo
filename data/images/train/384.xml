@@ -1,0 +1,136 @@
+<annotation>
+    <folder>test</folder>
+    <filename>384.jpg</filename>
+    <path>/Users/kaundinya/workspace/learning-folder/tf-example-object-detection-api-race-cars/test/384.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>467</xmin>
+            <ymin>94</ymin>
+            <xmax>521</xmax>
+            <ymax>265</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>523</xmin>
+            <ymin>91</ymin>
+            <xmax>574</xmax>
+            <ymax>263</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>234</xmin>
+            <ymin>90</ymin>
+            <xmax>302</xmax>
+            <ymax>271</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>305</xmin>
+            <ymin>86</ymin>
+            <xmax>381</xmax>
+            <ymax>279</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>112</xmin>
+            <ymin>86</ymin>
+            <xmax>180</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>182</xmin>
+            <ymin>93</ymin>
+            <xmax>234</xmax>
+            <ymax>268</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>577</xmin>
+            <ymin>91</ymin>
+            <xmax>623</xmax>
+            <ymax>263</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>425</xmin>
+            <ymin>98</ymin>
+            <xmax>465</xmax>
+            <ymax>259</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>373</xmin>
+            <ymin>102</ymin>
+            <xmax>422</xmax>
+            <ymax>262</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>629</xmin>
+            <ymin>77</ymin>
+            <xmax>689</xmax>
+            <ymax>260</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>677</xmin>
+            <ymin>73</ymin>
+            <xmax>787</xmax>
+            <ymax>255</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -6,43 +6,109 @@
         <database>Unknown</database>
     </source>
     <size>
-        <width>1280</width>
-        <height>960</height>
+        <width>900</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>shelf</name>
+        <name>bottle</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>217</xmin>
-            <ymin>542</ymin>
-            <xmax>926</xmax>
-            <ymax>777</ymax>
+            <xmin>458</xmin>
+            <ymin>118</ymin>
+            <xmax>527</xmax>
+            <ymax>294</ymax>
         </bndbox>
     </object>    <object>
-        <name>shelf</name>
+        <name>bottle</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>253</xmin>
-            <ymin>321</ymin>
-            <xmax>889</xmax>
-            <ymax>523</ymax>
+            <xmin>240</xmin>
+            <ymin>107</ymin>
+            <xmax>310</xmax>
+            <ymax>272</ymax>
         </bndbox>
     </object>    <object>
-        <name>shelf</name>
+        <name>bottle</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>255</xmin>
-            <ymin>798</ymin>
-            <xmax>887</xmax>
-            <ymax>944</ymax>
+            <xmin>173</xmin>
+            <ymin>105</ymin>
+            <xmax>235</xmax>
+            <ymax>262</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>386</xmin>
+            <ymin>111</ymin>
+            <xmax>451</xmax>
+            <ymax>291</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>540</xmin>
+            <ymin>114</ymin>
+            <xmax>613</xmax>
+            <ymax>300</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>102</xmin>
+            <ymin>94</ymin>
+            <xmax>172</xmax>
+            <ymax>254</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>733</xmin>
+            <ymin>122</ymin>
+            <xmax>812</xmax>
+            <ymax>298</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>326</xmin>
+            <ymin>99</ymin>
+            <xmax>384</xmax>
+            <ymax>261</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>629</xmin>
+            <ymin>122</ymin>
+            <xmax>707</xmax>
+            <ymax>282</ymax>
         </bndbox>
     </object>
 </annotation>

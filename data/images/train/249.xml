@@ -6,32 +6,43 @@
         <database>Unknown</database>
     </source>
     <size>
-        <width>1280</width>
-        <height>960</height>
+        <width>900</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>shelf</name>
+        <name>bottle</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>231</xmin>
-            <ymin>572</ymin>
-            <xmax>966</xmax>
-            <ymax>855</ymax>
+            <xmin>425</xmin>
+            <ymin>97</ymin>
+            <xmax>504</xmax>
+            <ymax>313</ymax>
         </bndbox>
     </object>    <object>
-        <name>shelf</name>
+        <name>bottle</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>225</xmin>
-            <ymin>302</ymin>
-            <xmax>979</xmax>
-            <ymax>547</ymax>
+            <xmin>337</xmin>
+            <ymin>91</ymin>
+            <xmax>424</xmax>
+            <ymax>330</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>512</xmin>
+            <ymin>101</ymin>
+            <xmax>560</xmax>
+            <ymax>306</ymax>
         </bndbox>
     </object>
 </annotation>
