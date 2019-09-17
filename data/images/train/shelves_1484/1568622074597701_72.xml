@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New Folder With Items</folder>
+	<filename>1568622074597701_72.jpg</filename>
+	<path>/Users/venkatesh/Desktop/cs/New Folder With Items/1568622074597701_72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>224</ymin>
+			<xmax>1826</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>667</ymin>
+			<xmax>1823</xmax>
+			<ymax>1045</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>1048</ymin>
+			<xmax>1844</xmax>
+			<ymax>1509</ymax>
+		</bndbox>
+	</object>
+</annotation>
