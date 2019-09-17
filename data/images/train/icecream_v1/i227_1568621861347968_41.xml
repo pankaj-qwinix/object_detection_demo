@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NEW_IMAGES</folder>
+	<filename>i227_1568621861347968_41.jpg</filename>
+	<path>/home/st01/Pictures/NEW_IMAGES/i227_1568621861347968_41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>icecream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>72</ymin>
+			<xmax>361</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>
