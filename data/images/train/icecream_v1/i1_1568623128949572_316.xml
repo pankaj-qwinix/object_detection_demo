@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img0to400</folder>
+	<filename>i1_1568623128949572_316.jpg</filename>
+	<path>/home/hashstudioz/Desktop/img0to400/i1_1568623128949572_316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>icecream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>71</ymin>
+			<xmax>541</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

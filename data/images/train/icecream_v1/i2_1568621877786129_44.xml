@@ -1,7 +1,7 @@
 <annotation>
-	<folder>shelfimg</folder>
+	<folder>img0to400</folder>
 	<filename>i2_1568621877786129_44.jpg</filename>
-	<path>/home/hashstudioz/workspace/projects/cooler/labelImg-master/shelfimg/i2_1568621877786129_44.jpg</path>
+	<path>/home/hashstudioz/Desktop/img0to400/i2_1568621877786129_44.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,46 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>52</ymin>
-			<xmax>148</xmax>
-			<ymax>147</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>icecream</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>146</xmin>
-			<ymin>67</ymin>
-			<xmax>255</xmax>
-			<ymax>173</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>icecream</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>254</xmin>
-			<ymin>83</ymin>
-			<xmax>392</xmax>
-			<ymax>206</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>icecream</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>396</xmin>
-			<ymin>71</ymin>
-			<xmax>554</xmax>
+			<xmin>45</xmin>
+			<ymin>62</ymin>
+			<xmax>164</xmax>
 			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>icecream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>29</ymin>
+			<xmax>335</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>icecream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>6</ymin>
+			<xmax>528</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 </annotation>
