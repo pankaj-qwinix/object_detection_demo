@@ -1,0 +1,26 @@
+<annotation>
+	<folder>icecream20191001_updatedshelf</folder>
+	<filename>i316_vikt1484_c001_20190831120840_top.jpg</filename>
+	<path>/Users/pankajkumarjha/env/Out_of_stock/icecream20191001_updatedshelf/i316_vikt1484_c001_20190831120840_top.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>icecream</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>44</ymin>
+			<xmax>578</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>
